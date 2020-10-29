@@ -1,0 +1,61 @@
+.student {
+    border: 1px solid black;
+    padding: 20px 10px 0 10px;
+}
+
+.breaking {
+    border: 1px solid black;
+    padding: 20px 10px 0 10px;
+}
+
+.CSS {
+    border: 1px solid black;
+    padding: 20px 10px 0 10px;
+}
+
+.upper {
+    display: flex;
+}
+
+h3 {
+    text-align: center;
+}
+
+.lower{
+    display: flex;
+}
+
+.turtles{
+    border: 1px solid black;
+    width: 35%;
+}
+
+.list{
+    border: 1px solid black;
+    width: 65%;
+    align-items: stretch;
+}
+
+#sports{
+    background-color: blue;
+}
+
+#politics{
+    background-color: red;
+}
+
+#local {
+    background-color: green;
+}
+
+#opinion {
+    background-color: purple;
+}
+
+#technology {
+    background-color: salmon;
+}
+ 
+p {
+    line-height: 1.2;
+}
