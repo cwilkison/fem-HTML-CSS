@@ -34,26 +34,36 @@ h3 {
     border: 1px solid black;
     width: 65%;
     align-items: stretch;
+
 }
 
 #sports{
     background-color: blue;
+    flex: 1;
 }
 
 #politics{
     background-color: red;
+    flex: 1;
+
 }
 
 #local {
     background-color: green;
+    flex: 1;
+
 }
 
 #opinion {
     background-color: purple;
+    flex: 1;
+
 }
 
 #technology {
     background-color: salmon;
+    flex: 1;
+
 }
  
 p {
